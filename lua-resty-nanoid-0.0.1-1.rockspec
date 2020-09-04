@@ -1,11 +1,11 @@
-package = "nanoid"
+package = "lua-resty-nanoid"
 version = "0.0.1-1"
 source = {
-   url = "*** please add URL for source tarball, zip or repository here ***"
+   url = "https://github.com/CriztianiX/lua-resty-nanoid.git"
 }
 description = {
-   detailed = "Single header NanoID implementation in C from https://github.com/NerdyPepper/nanoid",
-   homepage = "*** please enter a project homepage ***",
+   detailed = "nanoid for luajit2 and openresty using a single header NanoID implementation in C from https://github.com/NerdyPepper/nanoid",
+   homepage = "https://github.com/CriztianiX/lua-resty-nanoid",
    license = "MIT"
 }
 
